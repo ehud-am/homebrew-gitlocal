@@ -1,8 +1,8 @@
 cask "gitlocal" do
-  version "0.13.4"
-  sha256 "2fa6db0f3e4772299bbd899a1560ac54f2dbe94a084410066f9e21f158eee4e6"
+  version "0.13.5"
+  sha256 "98c637fcf7cd4a9ba39544f5dae3b1649807a98b7cbfe06854debc521603f8bb"
 
-  url "https://github.com/ehud-am/gitlocal/releases/download/v0.13.4/GitLocal-0.13.4-macos.zip"
+  url "https://github.com/ehud-am/gitlocal/releases/download/v0.13.5/GitLocal-0.13.5-macos.zip"
   name "GitLocal"
   desc "Native macOS repository viewer for GitLocal"
   homepage "https://github.com/ehud-am/gitlocal"
